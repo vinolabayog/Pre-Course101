@@ -1,0 +1,37 @@
+.thirdDiv{
+        display: flexbox;
+        position:center;
+        width: 500px;
+        height: 600px;
+        background-color: bisque;
+        padding: 50px;
+        border-color: aquamarine;
+        border-style: dotted dashed solid;
+        border-width: 6px;
+        margin-left: auto;
+        margin-right: auto;
+       
+}
+
+.spanId{
+    font-size: 18px;
+    margin: 50px;
+    text-align: center;
+}          
+body{
+    background-image: url(https://thumbs.dreamstime.com/b/adobo-pork-black-bowl-dark-slate-background-pork-adobo-adobong-baboy-filipino-cuisine-dish-filipino-food-adobo-pork-176133202.jpg);
+    background-size: cover;
+  
+}
+.MyName{
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+}
+
